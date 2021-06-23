@@ -1,0 +1,4 @@
+This is the Hello World file added from the terminal.
+I first successfully cloned the Project HelloWorld to my local repo with terminal command,
+then I created this file to add and commit.
+Let's see if it works~
